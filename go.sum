@@ -1,6 +1,4 @@
-github.com/Loeksnokes/prefcode v0.0.0-20210807211540-bf7ea049e39c h1:1WTRZ/HbR/jF9lhsqKHbOmgep0sMrSkTmDC+b8gF6WQ=
-github.com/Loeksnokes/prefcode v0.0.0-20210807211540-bf7ea049e39c/go.mod h1:dDCzuzUamnov5NCLpvrQ1oYLuix7hoR8qIG+c9u7nMc=
 github.com/loeksnokes/prefcode v0.0.0-20210807211540-bf7ea049e39c h1:Sk1xt8MK5aQzeY5asVff/xQmlcViyb5e8ZxGhBpPuD8=
 github.com/loeksnokes/prefcode v0.0.0-20210807211540-bf7ea049e39c/go.mod h1:jk5iTmoJuC57UahI90AZMNyzqIRn6nePiLhuSLHJ9v0=
-github.com/loeksnokes/treepair v0.0.0-20210807205608-818cd5146bdb h1:dzmlLoVgQueMApKYeuak750kKbFmdhMq9+X0T8cABtI=
-github.com/loeksnokes/treepair v0.0.0-20210807205608-818cd5146bdb/go.mod h1:fbtfCp8HIaQEtNukRHUo1Ha2JRZbKp4rk0CLc7aQubU=
+github.com/loeksnokes/treepair v0.0.0-20210807222742-96dd076f98ec h1:VkwIStXQJYiStAAOaGda94XFvdBdPriACcywPXazGpU=
+github.com/loeksnokes/treepair v0.0.0-20210807222742-96dd076f98ec/go.mod h1:fbtfCp8HIaQEtNukRHUo1Ha2JRZbKp4rk0CLc7aQubU=
